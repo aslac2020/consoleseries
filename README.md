@@ -1,4 +1,4 @@
-# Projeto Cadastro de Se
+# Projeto Cadastro de Séries
 
 
 # Sobre o projeto
