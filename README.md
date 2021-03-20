@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Projeto Site Netflix - Cursos faz plano do **Bootcamp MRV Developer**, junto com a plataforma *DIO*.
+Projeto Console Séries - Cursos faz plano do **Bootcamp MRV Developer**, junto com a plataforma *DIO*.
 
 Consiste em um console de cadastro,exclusão de séries,atualizando séries,visualização de séries.
 
